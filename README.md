@@ -9,6 +9,4 @@ CRUD API for Tathva
 
 python3 manage.py createsuperuser
 
-python3 manage.py createsuperuser
-
 ./manage.py runserver  
